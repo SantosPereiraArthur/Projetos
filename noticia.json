@@ -1,0 +1,16 @@
+{
+  "noticias": [
+    {
+      "titulo": "Primeira notícia",
+      "noticia": "Lorem Ipsum é simplesmente um texto fictício da indústria de impressão e composição. Lorem Ipsum tem sido o texto fictício padrão da indústria desde os anos 1500, quando uma impressora desconhecida pegou uma galera de tipos e a embaralhou para fazer um livro de espécimes de tipos. Ele sobreviveu não apenas cinco séculos, mas também ao salto para a composição eletrônica, permanecendo essencialmente inalterado. Foi popularizado na década de 1960 com o lançamento de folhas Letraset contendo passagens de Lorem Ipsum e, mais recentemente, com software de editoração eletrônica como Aldus PageMaker, incluindo versões de Lorem Ipsum."
+    },
+    {
+      "titulo": "Segunda notícia",
+      "noticia": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "titulo":"Terceira notícia",
+      "noticia": "O Santos divulgou, na manhã deste domingo 16, imagens do embarque de sua delegação rumo à capital paranaense, onde enfrentará o Coritiba em um amistoso. A grande novidade foi a presença do atacante Neymar, que acompanhou o elenco na viagem.Apesar da presença do camisa 10, Neymar segue em tratamento de uma lesão muscular, a mesma que o tirou da Seleção Brasileira nos jogos contra Colômbia e Argentina pelas Eliminatórias. Sua ida a Curitiba tem como principal objetivo motivar seus companheiros e acompanhar de perto o desempenho do time.A expectativa agora gira em torno da recuperação do astro santista. O Santos estreia no Campeonato Brasileiro no próximo dia 29, contra o Vasco, no Rio de Janeiro, e ainda não há confirmação sobre a presença de Neymar em condições de jogo.O amistoso entre Santos e Coritiba está marcado para este domingo, às 18h, no estádio Couto Pereira. As equipes, eliminadas de seus respectivos campeonatos estaduais, utilizam a partida como preparatória para o início da Série A do Brasileirão."
+    }
+  ]
+}
